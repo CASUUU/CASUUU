@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=CASUUU&show_icons=true&theme=ocean_dark)
 ![VickScarlet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CASUUU&layout=compact&show_icons=true&theme=ocean_dark)  
+[![Stperrakis wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CASUUU)](https://github.com/anuraghazra/github-readme-stats)
